@@ -9,6 +9,7 @@ WIN_COMBINATIONS = [
   [0,4,8],
   [2,4,6]
 ]
+
 # display board
 def display_board(board)
   row1 = " #{board[0]} | #{board[1]} | #{board[2]} "
